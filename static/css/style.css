@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+h1 {
+  font-family:'Nanum Ghotic', sans-serif;
+  color:black;
+  
+}
+h2 {font-family: 'Nanum Ghotic', sans-serif;
+   color:black}
+h3{font-family: 'Abril Fatface', cursive;
+  color:black}
+h4{font-family: 'Germania One', cursive;
+  color:black}
+
+
+.paragrafo-preto{
+  color:preto;
+  font-family:'Barlow';
+}
+.paragrafo-laranja{
+  color:darkorange;
+  font-family:'Climate Crisis';
+}
+.paragrafo-azul{font-family: 'Righteous', cursive;
+               color:darkblue}
